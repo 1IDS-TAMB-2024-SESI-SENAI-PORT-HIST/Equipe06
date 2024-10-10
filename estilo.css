@@ -1,0 +1,178 @@
+body{
+	margin:0px;
+	/*text-indent:50px;*/
+}
+nav {
+	background-color: #420389;
+	height:100px;
+	position: fixed;
+    width: 100%;
+    top: 0;
+
+}
+.introdução{
+	font-size:25px;
+}
+footer{
+	background-color:#420389;
+	border: 0px;
+}
+#fim{
+	color:white;
+	text-align:center-right;
+	font-size: 15px;
+}
+#fim a{
+	text-decoration:none;
+	color:white;
+}
+p{
+	width:95%;
+	font-family:Trebuchet MS;
+}
+h3{
+	color:white;
+}
+h1{
+	font-family:Trebuchet MS;
+	font-size:45px;
+	color:#420389
+
+}
+h2{
+	font-family:Trebuchet MS;
+}
+
+#Parnasianismo{
+	background-color:#420389;
+	color:white;
+	text-align:center;
+	font-size: 40px;
+	font-family:Trebuchet MS;
+	margin:30px;
+
+}
+
+#Realismo{
+	background-color:#420389;
+	color:white;
+	text-align:center;
+	font-size: 40px;
+	font-family:Trebuchet MS;
+}
+ main{
+	 margin: 30px;
+ }
+ 
+ main > * p{
+	 font-size:20px;
+ }
+.intro{
+	margin: 30px;
+	margin-top: 160px;
+ }
+ .centro{
+	text-align:center;
+	background-color:#865cb1;
+	color: #ffffff
+ }
+ 
+ #naturalismo{
+	background-color:#420389;
+	color:white;
+	text-align:center;
+	font-size: 40px;
+	font-family:Trebuchet MS;
+
+	
+ }
+ 
+ .obras{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:40%
+ }
+ 
+ .titulos{
+	 text-align: center;
+ }
+ 
+ #titulo_nav{ 
+	display: inline;
+	float: right;
+	transform: translateY(100%);
+	margin-right:30px;
+ }
+
+
+#tabela {
+	width:50%;
+	margin-left:auto;
+	margin-right:auto;
+}
+#tabela th{
+		text-align: center;
+		padding-top: 10px;
+		color:#FFFFFF;
+		background-color:#420389;
+}
+#tabela {
+		font-family: geneva;
+		border-collapse: collapse;
+		width: 40%;
+		text-align:center;
+		padding-top: 20px;
+	
+}
+#tabela{
+	border-collapse: collapse;
+}
+*{
+	margin: 10;
+	padding: 0;
+	font-family: arial;
+}
+ul{	
+	margin: 0;
+	margin-top: -10px;
+    padding: 0;
+	list-style-type: none;
+	overflow: hidden;
+	background-color: #420389;
+	width: 100%;
+	position: relative;
+}
+li{float:left;}
+li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding:10px 10px;
+	text-decoration: none;
+}
+.active{
+	background-color: #320269;
+}
+.active:hover{
+	background-color: #ad5cd1;
+}
+li a:hover:not(.active){
+	background-color: #320269;
+}
+.principal{
+	margin-top: 50px;
+}
+h1{
+	text-indent: 20px;
+}
+p{
+	text-align: justify;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+*{
+	font-family: Trebuchet MS;
+}
+
